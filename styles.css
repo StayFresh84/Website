@@ -1,0 +1,116 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+}
+
+main {
+  padding: 20px;
+}
+
+.search-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#search-input {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#listings-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.listing {
+  flex: 0 0 calc(25% - 40px);
+  border: 1px solid #f1f1f1;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.listing img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.listing h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.listing p {
+  margin-bottom: 5px;
+}
+
+.agent-info p {
+  margin-bottom: 5px;
+}
+
+#search-results {
+  margin-top: 20px;
+}
+
+.search-result {
+  border: 1px solid #f1f1f1;
+  border-radius: 8px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.search-result img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 5px;
+}
+
+.search-result h3 {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.search-result p {
+  margin-bottom: 3px;
+}
+
+footer {
+  background-color: #f5f5f5;
+  padding: 20px;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}

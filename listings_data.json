@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Cozy Apartment in Downtown",
+    "address": "123 Main St",
+    "city": "City A",
+    "state": "State X",
+    "zip": "12345",
+    "price": 1500,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "description": "A cozy apartment located in the heart of downtown with easy access to shops and restaurants.",
+    "image": "images/apartment1.jpg",
+    "listedDate": "2023-06-01",
+    "agent": {
+      "name": "John Doe",
+      "phoneNumber": "123-456-7890",
+      "email": "johndoe@example.com",
+      "photo": "images/agent1.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Spacious Loft with Stunning Views",
+    "address": "456 Elm St",
+    "city": "City B",
+    "state": "State Y",
+    "zip": "23456",
+    "price": 2500,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "description": "A spacious loft with large windows offering breathtaking views of the city skyline.",
+    "image": "images/apartment2.jpg",
+    "listedDate": "2023-06-05",
+    "agent": {
+      "name": "Jane Smith",
+      "phoneNumber": "987-654-3210",
+      "email": "janesmith@example.com",
+      "photo": "images/agent2.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Modern Studio in Trendy Neighborhood",
+    "address": "789 Oak St",
+    "city": "City C",
+    "state": "State Z",
+    "zip": "34567",
+    "price": 1200,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "description": "A modern studio apartment located in a vibrant neighborhood with trendy cafes and nightlife.",
+    "image": "images/apartment3.jpg",
+    "listedDate": "2023-06-10",
+    "agent": {
+      "name": "David Johnson",
+      "phoneNumber": "555-123-4567",
+      "email": "davidjohnson@example.com",
+      "photo": "images/agent3.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Luxury Condo with Ocean View",
+    "address": "10 Beachfront Ave",
+    "city": "City D",
+    "state": "State W",
+    "zip": "45678",
+    "price": 3500,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "description": "A luxurious condo overlooking the ocean with top-notch amenities and breathtaking views.",
+    "image": "images/apartment4.jpg",
+    "listedDate": "2023-06-15",
+    "agent": {
+      "name": "Sarah Thompson",
+      "phoneNumber": "555-789-1234",
+      "email": "sarahthompson@example.com",
+      "photo": "images/agent4.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Charming Townhouse in Suburbia",
+    "address": "789 Maple Ln",
+    "city": "City E",
+    "state": "State V",
+    "zip": "56789",
+    "price": 1800,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "description": "A charming townhouse nestled in a quiet suburban neighborhood with nearby parks and schools.",
+    "image": "images/apartment5.jpg",
+    "listedDate": "2023-06-20",
+    "agent": {
+      "name": "Michael Anderson",
+      "phoneNumber": "123-789-4567",
+      "email": "michaelanderson@example.com",
+      "photo": "images/agent5.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Modern Apartment with City Views",
+    "address": "123 Broadway Ave",
+    "city": "City F",
+    "state": "State U",
+    "zip": "67890",
+    "price": 2000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "description": "A modern apartment offering stunning city views and contemporary design.",
+    "image": "images/apartment21.jpg",
+    "listedDate": "2023-07-01",
+    "agent": {
+      "name": "Emily Wilson",
+      "phoneNumber": "555-789-1234",
+      "email": "emilywilson@example.com",
+      "photo": "images/agent21.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Quaint Cottage by the Lake",
+    "address": "456 Lakeview Dr",
+    "city": "City G",
+    "state": "State T",
+    "zip": "78901",
+    "price": 1200,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "description": "A charming cottage nestled by the lake, perfect for a peaceful getaway.",
+    "image": "images/apartment22.jpg",
+    "listedDate": "2023-07-05",
+    "agent": {
+      "name": "Daniel Walker",
+      "phoneNumber": "123-789-4567",
+      "email": "danielwalker@example.com",
+      "photo": "images/agent22.jpg"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "WebsiteHome",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.mount": [],
+		"liveServer.settings.port": 0,
+		"workbench.colorTheme": "Default High Contrast"
+	}
+}
